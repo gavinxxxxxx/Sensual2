@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "648494562412",
+    "firebase_url": "https://sensual-9366c.firebaseio.com",
+    "project_id": "sensual-9366c",
+    "storage_bucket": "sensual-9366c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648494562412:android:5a4f1085680ea7fe",
+        "android_client_info": {
+          "package_name": "me.gavin.sensual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648494562412-con2o96so62ll84bq9l56v6t4eagbcai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFd8xZS2yx-yMWXmhRaPs2fzo-Sr9_86w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
